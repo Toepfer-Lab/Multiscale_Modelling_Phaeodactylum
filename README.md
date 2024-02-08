@@ -11,7 +11,7 @@ Branco-Vieira, M., Caetano, N.S., Lima, A.R.J., Töpfer, N. (2023). **Towards Mu
 
 **2_Data:** files to be used in the "photon uptake constraints"
 
-**3_Notebook:** Jupyter Notebook containing the base code for simulating the *P. tricornutum* growth at the PBR level
+**3_Notebook:** Jupyter Notebook containing the base code for simulating the *P. tricornutum* growth at the PBR 
 
 **4_Requirements:** requirements to set the virtual environment 
 
